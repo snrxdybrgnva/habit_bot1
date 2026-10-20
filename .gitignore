@@ -1,0 +1,5 @@
+.env
+*.db
+study_bot.db
+__pycache__/
+.vscode/
